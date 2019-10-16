@@ -96,4 +96,3 @@ for stock in stock_symbols:
     puts_file.close
     
 browser.quit()
-#
